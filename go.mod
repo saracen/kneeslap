@@ -6,6 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.31.0
 	github.com/aws/aws-sdk-go-v2/config v1.27.37
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.63.1
+	golang.org/x/sync v0.8.0
 )
 
 require (
